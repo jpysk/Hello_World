@@ -6,14 +6,14 @@ Hi. My name is Julia Pysk and I am a junior studying business analytics at the U
 
 ## Table of contents
 
-- [PROJECT TITLE](#Project-Title)
+- [PROJECT SUBJECT](#Project-Subject)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [STEPS ON HOW TO RUN PROGRAM](#Steps-on-how-to-Run-Program)
+- [FILES USED IN THIS PROJECT](#Files-Used-In-this-Project)
+- [ADDITIONAL INFORMATION](#additional-Information)
 - [VERSIONING](#versioning)
 
-## Project Title
+## Project Subject
 
 **Hello World Example** 
 *Hello World Example* 
@@ -22,7 +22,7 @@ Hi. My name is Julia Pysk and I am a junior studying business analytics at the U
 
 Practice creating respiratories using GitHub.
 
-## How to Run Program 
+## Steps on how to Run Program 
 Explain here how you would run the program and what files need to be available. 
 ```text
 Hello_World/
@@ -34,19 +34,19 @@ Hello_World/
    
 ```
 
-## Files Used 
+## Files Used In this Project
 - Did you use any datafiles?  
 - List filenames
 - Where you got them 
 - What is contained within the data files?
 - Datafile considerations 
 - URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Motor scooters for sale](https://www.cycletrader.com/Used-Scooter/motorcycles-for-sale?type=Motorcycle%7C356953&category=Scooter%7C2009120&condition=U)
 
-## Additional Documentation
+## Additional Information
 
-No additional documentation at this time.
-No additional documentation at this time.  Here is some **BOLD** text 
+No additional information at this time.
+No additional information at this time.  Here is some **BOLD** text 
 
 
 ## Versioning
