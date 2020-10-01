@@ -36,11 +36,11 @@ Hello_World/
 ```
 
 ## Files Used In this Project
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
+- Did you use any files?  
+- List files
+- Where they came from 
+- What is contained within the files?
+- File considerations 
 - URL links to files - example here:
 [Motor scooters for sale](https://www.cycletrader.com/Used-Scooter/motorcycles-for-sale?type=Motorcycle%7C356953&category=Scooter%7C2009120&condition=U)
 
