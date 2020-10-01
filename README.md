@@ -11,8 +11,6 @@
 - [STEPS ON HOW TO RUN PROGRAM](#Steps-on-how-to-Run-Program)
 - [FILES USED IN THIS PROJECT](#Files-Used-In-this-Project)
 - [ADDITIONAL INFORMATION](#additional-Information)
-- [CHANGES AND VERSIONS](#changes-and-versioning)
-
 
 ## Introduction
 
@@ -69,7 +67,3 @@ Hello_World/
 
 No additional information at this time.
 No additional information at this time.  Here is some **BOLD** text 
-
-
-## Changes and Versions
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
