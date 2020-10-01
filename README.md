@@ -15,7 +15,7 @@ Hi. My name is Julia Pysk and I am a junior studying business analytics at the U
 - [STEPS ON HOW TO RUN PROGRAM](#Steps-on-how-to-Run-Program)
 - [FILES USED IN THIS PROJECT](#Files-Used-In-this-Project)
 - [ADDITIONAL INFORMATION](#additional-Information)
-- [VERSIONING AND CHANGES](#versioning-and-changes)
+- [CHANGES AND VERSIONS](#changes-and-versioning)
 
 ## Project Subject
 
@@ -53,5 +53,5 @@ No additional information at this time.
 No additional information at this time.  Here is some **BOLD** text 
 
 
-## Versioning and Changes
+## Changes and Versions
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
