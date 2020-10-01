@@ -15,12 +15,12 @@ Hi. My name is Julia Pysk and I am a junior studying business analytics at the U
 
 ## Project Title
 
-**Hello World Sample** 
-*Hello World Sample* 
+**Hello World Example** 
+*Hello World Example* 
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+Practice creating respiratories using GitHub.
 
 ## How to Run Program 
 Explain here how you would run the program and what files need to be available. 
@@ -45,7 +45,7 @@ Hello_World/
 
 ## Additional Documentation
 
-No additional documentation at this time 
+No additional documentation at this time.
 No additional documentation at this time.  Here is some **BOLD** text 
 
 
