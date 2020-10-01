@@ -4,7 +4,7 @@ Hi. My name is Julia Pysk and I am a junior studying business analytics at the U
 ![Profile_image](https://avatars3.githubusercontent.com/u/72113880?s=460&u=1a93cf6b5e16bd32fb98779ddfd4ca756ab39a8b&v=4)
 [Github_profile](https://github.com/jpysk)
 
-##Table of Contents
+## Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
